@@ -6,7 +6,7 @@ As a **Theory of Change**, it focuses on the inner state of the changemaker as i
 
 You can’t change a system without changing yourself. We are part of, and help to create and uphold, the systems we seek to change. Theory U explains the process of how we are embedded in systems using an Iceberg Model:
 
-![Image by Rosamund Mosse of evokebydesign](../.gitbook/assets/iceberg.png)
+![](../.gitbook/assets/iceberg.png)
 
 The symptoms above the water line show only about 10% of the story. When we see events or symptoms such as climate change, poverty, systemic discrimination, it can be hard to understand how we collectively keep on creating these results that no one would say that they want.
 
@@ -34,7 +34,7 @@ The five stages are:
 
 **Co-evolving.** Taking ideas to scale. Creating networks of change initiatives. The idea that rising tides float all boats.
 
-![Image by Rosamund Mosse - evokebydesign](../.gitbook/assets/theory-u_theoryu.png)
+![](../.gitbook/assets/theory-u_theoryu.png)
 
 So that’s HOW we work with Theory U. But what do we NEED in order to work with it? What personal characteristics do we need to cultivate to be able to successfully go through the process? We need an Open Mind, an Open Heart, and an Open Will.
 

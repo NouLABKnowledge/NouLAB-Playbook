@@ -1,6 +1,6 @@
 # Stinky Fish
 
-![Image by Rosamund Mosse of evokebydesign](../../.gitbook/assets/stinky-fish_stinky-fish.png)
+![](../../.gitbook/assets/stinky-fish_stinky-fish.png)
 
 **Purpose:** A short activity to run early in a program, focused on sharing fears, anxieties and uncertainties related to the program theme. The purpose is to create openness within a group. The stinky fish is a metaphor for "that thing that you carry around but don’t like to talk about; but the longer you hide it, the stinkier it gets." By putting stinky fish \(fears and anxieties\) on the table, participants begin relate to each other, become more comfortable sharing, and identify a clear area for development and learning.
 

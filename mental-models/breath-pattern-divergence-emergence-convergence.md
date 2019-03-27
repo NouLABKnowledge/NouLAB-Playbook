@@ -4,7 +4,7 @@ The breath pattern can be used as process architecture - as a way to design grou
 
 The breath pattern begins with a question or purpose and ends with some sort of outcome or clarification. In between, there are three phases: divergence, emergence, convergence.
 
-![Image by Rosamund Mosse of evokebydesign](../.gitbook/assets/breathing-pattern.png)
+![](../.gitbook/assets/breathing-pattern.png)
 
 ### **Divergence**
 

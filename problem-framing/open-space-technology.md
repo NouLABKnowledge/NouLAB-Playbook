@@ -12,7 +12,7 @@
 
 **HOST:** Participants can host a session, **JOIN:** Participants can join someone else’s session, **MOVE:** Participants can move between sessions, or **PAUSE:** Participants can pause \(take a break, reflect, get a coffee, have a one-on-one chat\). 
 
-![Image by Rosamund Mosse of evokebydesign](../.gitbook/assets/host-join-move-pause-01.png)
+![](../.gitbook/assets/host-join-move-pause-01.png)
 
 **Step three:** Read aloud the calling question for the OST. Make sure that post-it notes and markers are available to all participants. Invite participants to host a session related to the calling question - it might be a conversation or a creative or physical activity, it might be something they are an expert in or something they simply want to explore with others. Invite participants wanting to host to write their session title on a post-it note, bring it to the Marketplace, present the concept for their session to the group and choose a time slot and venue for the session. 
 
