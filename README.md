@@ -15,6 +15,8 @@ Extra thanks to Rosamund Mosse for many of the drawings featured throughout.
 
 If you are reading anything and would like to make comments or feel it needs to change please message [innovate@noulab.org](mailto:innovate@noulab.org). Same goes if you try any of these processes and they had good or bad outcomes we would love to hear!
 
+​[​![Creative Commons License](https://camo.githubusercontent.com/6887feb0136db5156c4f4146e3dd2681d06d9c75/68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792d6e632d73612f342e302f38387833312e706e67)​](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
    
 
 
