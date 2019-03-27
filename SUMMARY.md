@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Purpose](README.md)
+* [License](license.md)
 
 ## Evaluation
 

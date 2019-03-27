@@ -1,17 +1,8 @@
-# Purpose
+---
+description: How to suggest changes
+---
 
-This playbook is designed for two main purposes:
-
-1.  To help those who are working with NouLAB on innovation processes.
-2.  To share with the lab community how NouLAB approaches our work. 
-
-There can be no substitute for experience and having well-practiced facilitators will make all the difference to running processes. We at NouLAB operate with a learning mindset and understand adjustments and fluidity are essential to all facilitated processes. Keeping this spirit in mind will allow users of this guide to learn from their experiences and adjust as needed.
-
-This guide can be used in conjunction with NouLAB’s [5 day sprint template](https://docs.google.com/document/d/1qHxHq6g0lSmE-v3HbGm8wsvFO2-4AzQ517WcNOJSVRE/edit). Together these tools can guide you through a process is used and has been tested by the NouLAB team.
-
-The first draft of this guide was written by Rosamund Mosse, Lab Manager, NouLAB \(now with [evokebydesign](http://evokebydesign.org)\), and assembled on Gitbook by Lewis Muirhead, Knowledge Manager at NouLAB. Multiple iterations are ongoing in the spirt of MVPs and SFDs. 
-
-Extra thanks to Rosamund Mosse for many of the drawings featured throughout.
+# License
 
 We are publishing the Playbook as a [Gitbook](https://www.gitbook.com/), an offshoot Github, the platform that powers the Open Source movement. As an Open Source ebook, anyone can add to it, or use it to build other Open Source resources. This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
@@ -21,6 +12,7 @@ To suggest changes to the Playbook, click the \[Edit on GitHub\] button on the t
 
 This Gitbook is not a [Wiki](https://en.wikipedia.org/wiki/Wiki). However, the [five pillars](https://en.wikipedia.org/wiki/Wikipedia:Five_pillars) and [10 simple rules](https://en.wikipedia.org/wiki/Wikipedia:Ten_Simple_Rules_for_Editing_Wikipedia) of Wikipedia provide a useful guide for the editorial standards we are aiming for to provide a reliable, neutral and accessible reference.
 
-   
+Credit to [MaRS](mhttps://www.marsdd.com/systems-change/mars-solutions-lab/mars-solutions-lab-approach/) for inspiration on how to describe this process.
+
 
 
