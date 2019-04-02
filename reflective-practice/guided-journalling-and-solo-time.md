@@ -1,12 +1,12 @@
 # Guided Journalling and Solo time
 
-**Purpose:** Guided journaling leads participants through a process of self-reflection and allows them to step into a deeper level of reflection than in an un-guided journaling process. It allows participants to locate their sources of energy, frustration, ways in which they may be holding themselves back, crystallise their vision of success, and identify concrete action steps.
+**Purpose:** Guided journalling leads participants through a process of self-reflection and allows them to step into a deeper level of reflection than in an un-guided journaling process. It allows participants to locate their sources of energy, frustration, ways in which they may be holding themselves back, crystallise their vision of success, and identify concrete action steps.
 
-**Materials:** Journaling questions for the facilitator. A notebook or peice of paper and pen or pencil per participant. Calm background music can be nice, depending on the venue. _**Don’t take photos of anyone during journaling**_
+**Materials:** Journaling questions for the facilitator. A notebook or piece of paper and pen or pencil per participant. Calm background music can be nice, depending on the venue. _**Don’t take photos of anyone during journaling**_
 
 **Time:** 30 minutes for journaling and 30 minutes for solo time
 
-**Step one:** Put on the music if using it, and invite participants to find a comfortable place to sit and journal for 30 minutes. Mention that this is a solo, quiet exercise and that they will not be asked to share their journaling with anyone else. While journaling can be a good lead in to solo time in nature, always make sure to mention that facilitators are available for participants to talk through anything that comes up in journaling.
+**Step one:** Put on music if available, and invite participants to find a comfortable place to sit and journal for 30 minutes. Mention that this is a solo, quiet exercise and that they will not be asked to share their journaling with anyone else. While journaling can be a good lead in to solo time in nature, always make sure to mention that facilitators are available for participants to talk through anything that comes up in journaling.
 
 **Step two:** Before reading through the journaling questions, discuss the concept of stream of consciousness, and that this guided journaling is supposed to facilitate a stream of consciousness rather than exact and complete answers to each question. Indicate that if a question doesn’t resonate or make sense to them, there is no need to struggle to answer it. Instead, invite participants to focus on what is coming up for them and to write out those thoughts, feelings and ideas - even if they are still coming up from the previous question.
 
