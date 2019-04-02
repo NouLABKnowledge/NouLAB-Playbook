@@ -6,7 +6,7 @@
 
 **Time:** 20 minute teach, plus 90 - 180 minutes to allow groups to mock up their first prototype \(you may want to give them more time later to iterate\)
 
-**Step one:** Do the teach on Prototyping, available in the NouLAB files. Explain to participants that prototyping is a fast, low-cost, low-risk, learning-rich approach to surface and test promising responses to tough challenges. Prototyping precedes, rather than replaces, conventional pilot projects. Unlike pilots, where a promising intervention is ‘fixed’ for a longer period of time and assessed through evaluative techniques, prototyping can be used to quickly and inexpensively develop and test ideas that may warrant eventual pilot testing. In some unusual cases, the results of prototype tests may be sufficiently robust that innovators can skip a full-fledged pilot study altogether.
+**Step one:** Do teach on Prototyping. Explain to participants that prototyping is a fast, low-cost, low-risk, learning-rich approach to surface and test promising responses to tough challenges. Prototyping precedes, rather than replaces, conventional pilot projects. Unlike pilots, where a promising intervention is ‘fixed’ for a longer period of time and assessed through evaluative techniques, prototyping can be used to quickly and inexpensively develop and test ideas that may warrant eventual pilot testing. In some unusual cases, the results of prototype tests may be sufficiently robust that innovators can skip a full-fledged pilot study altogether.
 
 _**Prototypes:**_ 
 
